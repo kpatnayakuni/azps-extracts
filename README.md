@@ -6,3 +6,4 @@
 
 * extract-001 - [Add tags to a resource](extract-001/)
 * extract-002 - [Get the public ip address of an azure vm](extract-002/)
+* extract-003 - [Get the public ip address of an azure vm](extract-003/)
