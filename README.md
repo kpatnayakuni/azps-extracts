@@ -10,3 +10,4 @@
 * extract-004 - [Create Virtual Network with 2 subnets](extract-004/)
 * extract-005 - [List VM Image skus](extract-005/)
 * extract-006 - [Create a Public IP with DNS name and assign it to a Azure VM](extract-006/)
+* extract-007 - [Deploy Azure SQL Database](extract-007/)
