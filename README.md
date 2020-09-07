@@ -12,3 +12,4 @@
 * extract-006 - [Create a Public IP with DNS name and assign it to a Azure VM](extract-006/)
 * extract-007 - [Deploy Azure SQL Database](extract-007/)
 * extract-008 - [List subnets in a Virtual Network](extract-008/)
+* extract-009 - [Remove a Security Rule from Network Security Group](extract-009/)
