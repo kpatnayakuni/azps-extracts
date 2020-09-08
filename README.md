@@ -13,3 +13,4 @@
 * extract-007 - [Deploy Azure SQL Database](extract-007/)
 * extract-008 - [List subnets in a Virtual Network](extract-008/)
 * extract-009 - [Remove a Security Rule from Network Security Group](extract-009/)
+* extract-010 - [Add a new data disk to an Azure VM](extract-010/)
