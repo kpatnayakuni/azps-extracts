@@ -15,3 +15,4 @@
 * extract-009 - [Remove a Security Rule from Network Security Group](extract-009/)
 * extract-010 - [Add a new data disk to an Azure VM](extract-010/)
 * extract-011 - [Dissociate and remove the Public IP of an Azure VM](extract-011/)
+* extract-012 - [Create a Storage Account and enable Boot Diagnostics of an Azure VM](extract-012/)
