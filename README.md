@@ -17,3 +17,4 @@
 * extract-011 - [Dissociate and remove the Public IP of an Azure VM](extract-011/)
 * extract-012 - [Create a Storage Account and enable Boot Diagnostics of an Azure VM](extract-012/)
 * extract-013 - [Create two Virtual Networks and connect with Virtual Network Peering](extract-013/)
+* extract-014 - [Scan all the Network Security Groups in all the subscriptions and list the internet exposed ports](extract-014/)
