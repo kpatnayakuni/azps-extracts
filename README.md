@@ -19,3 +19,4 @@
 * extract-013 - [Create two Virtual Networks and connect with Virtual Network Peering](extract-013/)
 * extract-014 - [Scan all the Network Security Groups in all the subscriptions and list the internet exposed ports](extract-014/)
 * extract-015 - [Function to switch between multiple subscriptions with tab completion](extract-015/)
+* extract-016 - [List available Private IP Addresses in a subnet](extract-016/)
