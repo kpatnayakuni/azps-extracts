@@ -20,3 +20,4 @@
 * extract-014 - [Scan all the Network Security Groups in all the subscriptions and list the internet exposed ports](extract-014/)
 * extract-015 - [Function to switch between multiple subscriptions with tab completion](extract-015/)
 * extract-016 - [List available Private IP Addresses in a subnet](extract-016/)
+* extract-017 - [Function to generate a random password and store it in Azure Key Vault](extract-017/)
